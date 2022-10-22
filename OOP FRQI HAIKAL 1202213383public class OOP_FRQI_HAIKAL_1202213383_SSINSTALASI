@@ -1,0 +1,5 @@
+public class OOP_FRQI_HAIKAL_1202213383_SSINSTALASI {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
